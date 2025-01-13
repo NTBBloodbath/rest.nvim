@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.9.2](https://github.com/rest-nvim/rest.nvim/compare/v3.9.1...v3.9.2) (2025-01-13)
+
+
+### Bug Fixes
+
+* correct uri scheme parsing ([62606c3](https://github.com/rest-nvim/rest.nvim/commit/62606c3599bd304227457d6e20580965939b191e))
+
 ## [3.9.1](https://github.com/rest-nvim/rest.nvim/compare/v3.9.0...v3.9.1) (2024-12-28)
 
 
